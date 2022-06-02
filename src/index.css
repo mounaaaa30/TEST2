@@ -1,0 +1,28 @@
+#info {
+  border: black dashed 1px;
+  width: 300px;
+  height: auto;
+}
+#all{
+width: 100%;
+height: 100%;
+  margin-top: 20%;
+  margin-left: 5%;
+  
+ 
+}
+#infoo{
+  margin-left: 30%;
+}
+#infooo{
+  margin-left: 20%;
+}
+
+
+.APP{
+  background-color: rgb(206, 235, 235);
+  margin-left: 32%;
+  margin-right: 40%;
+  border: grey;
+  border-radius: 3%;
+}
